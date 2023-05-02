@@ -1,5 +1,8 @@
-def add_numbers(a, b):
-    sum = a + b
-    print(sum)
+def arg(x,y=5):
+    return x*y
+print(arg(4))
 
-add_numbers(2, 3)
+
+def arg(x,y=5):
+    return x*y
+print(arg(4,6))

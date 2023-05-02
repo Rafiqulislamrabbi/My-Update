@@ -6,3 +6,5 @@ s.reverse()
 for line in s:
     f.write(line)
 f.close()
+
+
